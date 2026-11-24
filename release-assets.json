@@ -1,0 +1,59 @@
+{
+  "version": "v1.0.0",
+  "assets": [
+    {
+      "slug": "abudawud",
+      "filename": "sakina_abudawud.db",
+      "sha256": "221f50e4ef81845fa19296df85dab1b6506fef96a008c82a72e0c8baece47082",
+      "size_bytes": 19111936
+    },
+    {
+      "slug": "ahmad",
+      "filename": "sakina_ahmad.db",
+      "sha256": "a68ab1e8eba89dfe20a3d57b32c921f6f23f4626f610e4ffbff1220f25fd3336",
+      "size_bytes": 89276416
+    },
+    {
+      "slug": "bukhari",
+      "filename": "sakina_bukhari.db",
+      "sha256": "e6ba85e8789e2bfb0c33a13e286cb022452c960228590eb8b6e359b7882bac8d",
+      "size_bytes": 15937536
+    },
+    {
+      "slug": "darimi",
+      "filename": "sakina_darimi.db",
+      "sha256": "e3360b63c7daddf8aee660a67a12814d2bdc00041e79999b08ce4ac06a6bfb35",
+      "size_bytes": 5828608
+    },
+    {
+      "slug": "ibnmajah",
+      "filename": "sakina_ibnmajah.db",
+      "sha256": "e27ff2e88612ee4c7955ca0a6738f74a07725631b07ebeb638876240d4efd91f",
+      "size_bytes": 10080256
+    },
+    {
+      "slug": "malik",
+      "filename": "sakina_malik.db",
+      "sha256": "34bee79b54d750a781bb4df3fd2b3584101def986037ddf9d13e4862242b04bd",
+      "size_bytes": 3694592
+    },
+    {
+      "slug": "muslim",
+      "filename": "sakina_muslim.db",
+      "sha256": "5c5f1de76eae09fc065d1f43b29666dac75860c8dcae06c92347ac7237df3de8",
+      "size_bytes": 16515072
+    },
+    {
+      "slug": "nasai",
+      "filename": "sakina_nasai.db",
+      "sha256": "ec4001265a73b948ff90ce1d763269fbf93c7ca02ae505824cd1e0456263fa8d",
+      "size_bytes": 20226048
+    },
+    {
+      "slug": "tirmidhi",
+      "filename": "sakina_tirmidhi.db",
+      "sha256": "7b031b43310c77c09939a143b23582358831789abae7c9042bf1e238f65c4a06",
+      "size_bytes": 11366400
+    }
+  ]
+}
