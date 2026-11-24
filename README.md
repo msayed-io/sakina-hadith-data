@@ -1,12 +1,24 @@
+<div align="center">
+
+<img src="assets/sakina-hadith-mark.png" alt="Sakina Hadith Data mark" width="180">
+
 # Sakina Hadith Data
 
-Verified, distributable SQLite databases for nine major hadith collections used by Sakina and other Islamic applications.
+**Verified SQLite databases for nine major hadith collections**
 
 قواعد SQLite موثقة ومتحقق منها لكتب الحديث التسعة، مهيأة للتوزيع والتنزيل المحلي داخل تطبيقات Android وغيرها.
 
+[Latest Release](../../releases/latest) · [Documentation](docs/USAGE.md) · [Direct Downloads](docs/RELEASES.md)
+
+</div>
+
+![Sakina Hadith Data cover](assets/sakina-hadith-cover.png)
+
+Verified, distributable SQLite databases for nine major hadith collections used by Sakina and other Islamic applications.
+
 ## Download
 
-All database files are published as assets of the latest GitHub Release. Each collection has its own SQLite file and direct download URL. See [the latest release](../../releases/latest) or the machine-readable [manifest](manifest.json).
+All database files are published as assets of the latest GitHub Release. Each collection has its own SQLite file and direct download URL. See [the latest release](../../releases/latest), the [direct-download guide](docs/RELEASES.md), or the machine-readable [manifest](manifest.json).
 
 ## Included collections
 
