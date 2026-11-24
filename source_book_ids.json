@@ -1,0 +1,51 @@
+{
+  "source_archive": "https://dev.shamela.ws/downloads/shamela-database-1448.zip",
+  "platform": "https://shamela.ws/",
+  "books": [
+    {
+      "book_id": 1681,
+      "name_ar": "صحيح البخاري",
+      "slug": "bukhari"
+    },
+    {
+      "book_id": 1727,
+      "name_ar": "صحيح مسلم",
+      "slug": "muslim"
+    },
+    {
+      "book_id": 117359,
+      "name_ar": "سنن أبي داود",
+      "slug": "abudawud"
+    },
+    {
+      "book_id": 7895,
+      "name_ar": "جامع الترمذي",
+      "slug": "tirmidhi"
+    },
+    {
+      "book_id": 1339,
+      "name_ar": "سنن النسائي",
+      "slug": "nasai"
+    },
+    {
+      "book_id": 1198,
+      "name_ar": "سنن ابن ماجه",
+      "slug": "ibnmajah"
+    },
+    {
+      "book_id": 1699,
+      "name_ar": "موطأ مالك",
+      "slug": "malik"
+    },
+    {
+      "book_id": 25794,
+      "name_ar": "مسند الإمام أحمد",
+      "slug": "ahmad"
+    },
+    {
+      "book_id": 21795,
+      "name_ar": "سنن الدارمي",
+      "slug": "darimi"
+    }
+  ]
+}

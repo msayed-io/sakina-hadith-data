@@ -1,0 +1,224 @@
+{
+  "master": "sakina_hadith_9books_titlefix_v3.db",
+  "master_sha256": "297e22dff182f164468499f5aaed0730c47caca6f56014fd1147b0efe017b85c",
+  "schema_tables": [
+    "collections",
+    "books",
+    "chapters",
+    "hadiths"
+  ],
+  "collections": [
+    {
+      "collection_id": 1,
+      "slug": "bukhari",
+      "filename": "sakina_bukhari.db",
+      "name_ar": "صحيح البخاري",
+      "edition_info": "طبعة السلطانية / دار طوق النجاة؛ ترقيم محمد فؤاد عبد الباقي",
+      "total_hadiths": 7265,
+      "counts": {
+        "collections": 1,
+        "books": 98,
+        "chapters": 4048,
+        "hadiths": 7265
+      },
+      "row_sha256": {
+        "collections": "ec7f518a5c2a4f02921a216a9b4ccbc2abc7f895fe3026113d751ff592bc5a30",
+        "books": "f257c2e728a0507b0a527a0ee0a32ad1d067c9f72f473fd1284378445c9ae3db",
+        "chapters": "71bd3b89c17a679e1a099b1afdf34619d1c7cf77f3b1ac73399a0b773a269dbb",
+        "hadiths": "ea30a99aaa0112c65aca9944662bd7a82803646b75750a8bf8c52fd27bec0f6c"
+      },
+      "file_size": 15937536,
+      "file_sha256": "e6ba85e8789e2bfb0c33a13e286cb022452c960228590eb8b6e359b7882bac8d",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 2,
+      "slug": "muslim",
+      "filename": "sakina_muslim.db",
+      "name_ar": "صحيح مسلم",
+      "edition_info": "تحقيق محمد فؤاد عبد الباقي؛ شامل المقدمة والأبواب",
+      "total_hadiths": 6347,
+      "counts": {
+        "collections": 1,
+        "books": 57,
+        "chapters": 1331,
+        "hadiths": 6399
+      },
+      "row_sha256": {
+        "collections": "512e7d8cc1243f5723a8e20ecb541b7c613ecc9333e47ba414767d8c62550bad",
+        "books": "caf7c01da934763b1b7e53a5939b779cd78ba9018090ba663e6245802f424c2d",
+        "chapters": "323569067e4ab3eb42aacbc2b0091684e16ad43fb3f68fc4fad5416d6e4adb1a",
+        "hadiths": "21f5898f355d59b55ccaaf27aa15ac152b9786edcdf6b13b91372630b1dc99aa"
+      },
+      "file_size": 16515072,
+      "file_sha256": "5c5f1de76eae09fc065d1f43b29666dac75860c8dcae06c92347ac7237df3de8",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 3,
+      "slug": "abudawud",
+      "filename": "sakina_abudawud.db",
+      "name_ar": "سنن أبي داود",
+      "edition_info": "تحقيق شعيب الأرنؤوط",
+      "total_hadiths": 3657,
+      "counts": {
+        "collections": 1,
+        "books": 36,
+        "chapters": 1871,
+        "hadiths": 3657
+      },
+      "row_sha256": {
+        "collections": "3d9b8653cf13699b3cfa224aa13a2c859b8231ae2d37595d45ec819e2749e2ab",
+        "books": "b928c56d42c863cc5bda24db6e647758b1c296f17f1dd08823ba1e763288ca19",
+        "chapters": "be20f09e9d5ffa43f665363d714b31f006e6281d035871fdd6aa49c1bf0f0f4d",
+        "hadiths": "a1c2d9906e4b373b5abc8f369e74ab280770d440e7bd2658b68e2ff60f587da7"
+      },
+      "file_size": 19111936,
+      "file_sha256": "221f50e4ef81845fa19296df85dab1b6506fef96a008c82a72e0c8baece47082",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 4,
+      "slug": "tirmidhi",
+      "filename": "sakina_tirmidhi.db",
+      "name_ar": "جامع الترمذي",
+      "edition_info": "تحقيق بشار عواد معروف",
+      "total_hadiths": 4325,
+      "counts": {
+        "collections": 1,
+        "books": 52,
+        "chapters": 2082,
+        "hadiths": 4325
+      },
+      "row_sha256": {
+        "collections": "f396d13dc602cf7b011741ad0a217a0a263d186bbb54270d95d4942846ca410d",
+        "books": "7629ce13965804d6a7ff0f81c9120354f15049459679731e8d2de9b319cc2d5e",
+        "chapters": "b7a0fd78dae30f58aaebc08b04fa010873c4ce3bf95add9c492f1d72a588cf0e",
+        "hadiths": "522df3cc0ad8107bf0bb8dbf695a2927e2ec3a2c27ccef04ef669c6a49f051af"
+      },
+      "file_size": 11366400,
+      "file_sha256": "7b031b43310c77c09939a143b23582358831789abae7c9042bf1e238f65c4a06",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 5,
+      "slug": "nasai",
+      "filename": "sakina_nasai.db",
+      "name_ar": "سنن النسائي",
+      "edition_info": "طبعة الرسالة؛ اعتماد طبعة المحقق عبد الفتاح أبو غدة في المصدر",
+      "total_hadiths": 3674,
+      "counts": {
+        "collections": 1,
+        "books": 52,
+        "chapters": 2534,
+        "hadiths": 3674
+      },
+      "row_sha256": {
+        "collections": "675a2043699cb0823f13628437193e7295a9a227047fcba096df6a94029ea6bf",
+        "books": "8b1d3af5a12c2ee8f7d7bc821b65e1835fe83b9043cef2a441ceb849a7755918",
+        "chapters": "a5bcdeb35222c2ecb7c23174df7b4bfc0105ec8356e40a1084757e853c09c443",
+        "hadiths": "0304c0f4e9eac589d0a896cbdbb6ad9b3acb7496bced5fb3810bc24fffadf1c2"
+      },
+      "file_size": 20226048,
+      "file_sha256": "ec4001265a73b948ff90ce1d763269fbf93c7ca02ae505824cd1e0456263fa8d",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 6,
+      "slug": "ibnmajah",
+      "filename": "sakina_ibnmajah.db",
+      "name_ar": "سنن ابن ماجه",
+      "edition_info": "تحقيق محمد فؤاد عبد الباقي",
+      "total_hadiths": 4342,
+      "counts": {
+        "collections": 1,
+        "books": 38,
+        "chapters": 1480,
+        "hadiths": 4342
+      },
+      "row_sha256": {
+        "collections": "9868e28f050dd8b7ec3088f5df3ba29cc201223e437b03dfc68250e80f9c8c51",
+        "books": "432dc400b116fb4f1099e7201999fd968d3354f82ac2aae8de6451511e184ef8",
+        "chapters": "2d9d457748bd0f58f8904152459a16f86a6a56e1385c780bae3a0ad0ea4a0c7d",
+        "hadiths": "76edfe1cacbbd5c04bece2e1bf752b2994f11590d1aa9bbdd45ee0c15c0a3cb9"
+      },
+      "file_size": 10080256,
+      "file_sha256": "e27ff2e88612ee4c7955ca0a6738f74a07725631b07ebeb638876240d4efd91f",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 7,
+      "slug": "malik",
+      "filename": "sakina_malik.db",
+      "name_ar": "موطأ مالك",
+      "edition_info": "رواية يحيى الليثي؛ تحقيق محمد فؤاد عبد الباقي",
+      "total_hadiths": 1821,
+      "counts": {
+        "collections": 1,
+        "books": 61,
+        "chapters": 683,
+        "hadiths": 1821
+      },
+      "row_sha256": {
+        "collections": "0b88a593a851bf57d8dbf403711fe2431d6c4c0696de3ba9a1c665cd7925a8eb",
+        "books": "e43189f9cccbf7df72342fc42af5dbf8395ea1478d452c414ea0a65518fa74b0",
+        "chapters": "264c2b6fbbbf4bdb422466a0e90a809447783ed57809ac5b5128c1480d51fae4",
+        "hadiths": "671228aabd67d0d9cb95dcbb55284b8ce007a1afe999af94baef3a4f50021b10"
+      },
+      "file_size": 3694592,
+      "file_sha256": "34bee79b54d750a781bb4df3fd2b3584101def986037ddf9d13e4862242b04bd",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 8,
+      "slug": "ahmad",
+      "filename": "sakina_ahmad.db",
+      "name_ar": "مسند الإمام أحمد",
+      "edition_info": "طبعة الرسالة؛ تحقيق شعيب الأرنؤوط",
+      "total_hadiths": 18000,
+      "counts": {
+        "collections": 1,
+        "books": 25,
+        "chapters": 1292,
+        "hadiths": 18000
+      },
+      "row_sha256": {
+        "collections": "d7cd358d7523974376b820c9b1784a5512aa64856d056cde7fa563b26fbb0802",
+        "books": "f5dc5eeeacb54834d7f0f3ff7932a34476e96b635bf8c8b18c1ec9c1f7947b95",
+        "chapters": "b1e42de9b6497e1bbd6b645066f277c23e77561576da0d746c5f92a44111da0a",
+        "hadiths": "f2a41a37844791d1d0f66f3ebcb974ab5ce30eaf450196fa0f51cafaa72ae24e"
+      },
+      "file_size": 89276416,
+      "file_sha256": "a68ab1e8eba89dfe20a3d57b32c921f6f23f4626f610e4ffbff1220f25fd3336",
+      "foreign_key_violations": []
+    },
+    {
+      "collection_id": 9,
+      "slug": "darimi",
+      "filename": "sakina_darimi.db",
+      "name_ar": "سنن الدارمي",
+      "edition_info": "تحقيق حسين سليم أسد",
+      "total_hadiths": 3380,
+      "counts": {
+        "collections": 1,
+        "books": 25,
+        "chapters": 1317,
+        "hadiths": 3380
+      },
+      "row_sha256": {
+        "collections": "b7ca8fcce41ce53830f91d580edc185139856dbf6ad9c76e0978fd77e0eab53d",
+        "books": "1918ab5b3f2e5da8150e428f42d267b61e5745a5e5e465b64ede7a62d8b90604",
+        "chapters": "3ab37f6c725fa12b12c8b9e8e17057d533773e07ac76b10aa735e3da5a2019e6",
+        "hadiths": "575b909daec662f674d38bba025af1cb3230ce3fbd178a114722a1ea1ff181c6"
+      },
+      "file_size": 5828608,
+      "file_sha256": "e3360b63c7daddf8aee660a67a12814d2bdc00041e79999b08ce4ac06a6bfb35",
+      "foreign_key_violations": []
+    }
+  ],
+  "zip": {
+    "filename": "sakina_split_databases.zip",
+    "file_size": 35512054,
+    "file_sha256": "630d6b1bc3311bfd69b238603c1b2e0e8542f2a4faa9abced98b8204ea9558bb"
+  }
+}

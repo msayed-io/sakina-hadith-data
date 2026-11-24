@@ -1,0 +1,457 @@
+{
+  "all_pass": true,
+  "checks": [],
+  "collections": [
+    {
+      "collection_id": 1,
+      "name_ar": "صحيح البخاري",
+      "file": "sakina_bukhari.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "ec7f518a5c2a4f02921a216a9b4ccbc2abc7f895fe3026113d751ff592bc5a30",
+          "hash_child": "ec7f518a5c2a4f02921a216a9b4ccbc2abc7f895fe3026113d751ff592bc5a30",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 98,
+          "count_child": 98,
+          "hash_source": "f257c2e728a0507b0a527a0ee0a32ad1d067c9f72f473fd1284378445c9ae3db",
+          "hash_child": "f257c2e728a0507b0a527a0ee0a32ad1d067c9f72f473fd1284378445c9ae3db",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 4048,
+          "count_child": 4048,
+          "hash_source": "71bd3b89c17a679e1a099b1afdf34619d1c7cf77f3b1ac73399a0b773a269dbb",
+          "hash_child": "71bd3b89c17a679e1a099b1afdf34619d1c7cf77f3b1ac73399a0b773a269dbb",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 7265,
+          "count_child": 7265,
+          "hash_source": "ea30a99aaa0112c65aca9944662bd7a82803646b75750a8bf8c52fd27bec0f6c",
+          "hash_child": "ea30a99aaa0112c65aca9944662bd7a82803646b75750a8bf8c52fd27bec0f6c",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 2,
+      "name_ar": "صحيح مسلم",
+      "file": "sakina_muslim.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "512e7d8cc1243f5723a8e20ecb541b7c613ecc9333e47ba414767d8c62550bad",
+          "hash_child": "512e7d8cc1243f5723a8e20ecb541b7c613ecc9333e47ba414767d8c62550bad",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 57,
+          "count_child": 57,
+          "hash_source": "caf7c01da934763b1b7e53a5939b779cd78ba9018090ba663e6245802f424c2d",
+          "hash_child": "caf7c01da934763b1b7e53a5939b779cd78ba9018090ba663e6245802f424c2d",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 1331,
+          "count_child": 1331,
+          "hash_source": "323569067e4ab3eb42aacbc2b0091684e16ad43fb3f68fc4fad5416d6e4adb1a",
+          "hash_child": "323569067e4ab3eb42aacbc2b0091684e16ad43fb3f68fc4fad5416d6e4adb1a",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 6399,
+          "count_child": 6399,
+          "hash_source": "21f5898f355d59b55ccaaf27aa15ac152b9786edcdf6b13b91372630b1dc99aa",
+          "hash_child": "21f5898f355d59b55ccaaf27aa15ac152b9786edcdf6b13b91372630b1dc99aa",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 3,
+      "name_ar": "سنن أبي داود",
+      "file": "sakina_abudawud.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "3d9b8653cf13699b3cfa224aa13a2c859b8231ae2d37595d45ec819e2749e2ab",
+          "hash_child": "3d9b8653cf13699b3cfa224aa13a2c859b8231ae2d37595d45ec819e2749e2ab",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 36,
+          "count_child": 36,
+          "hash_source": "b928c56d42c863cc5bda24db6e647758b1c296f17f1dd08823ba1e763288ca19",
+          "hash_child": "b928c56d42c863cc5bda24db6e647758b1c296f17f1dd08823ba1e763288ca19",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 1871,
+          "count_child": 1871,
+          "hash_source": "be20f09e9d5ffa43f665363d714b31f006e6281d035871fdd6aa49c1bf0f0f4d",
+          "hash_child": "be20f09e9d5ffa43f665363d714b31f006e6281d035871fdd6aa49c1bf0f0f4d",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 3657,
+          "count_child": 3657,
+          "hash_source": "a1c2d9906e4b373b5abc8f369e74ab280770d440e7bd2658b68e2ff60f587da7",
+          "hash_child": "a1c2d9906e4b373b5abc8f369e74ab280770d440e7bd2658b68e2ff60f587da7",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 4,
+      "name_ar": "جامع الترمذي",
+      "file": "sakina_tirmidhi.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "f396d13dc602cf7b011741ad0a217a0a263d186bbb54270d95d4942846ca410d",
+          "hash_child": "f396d13dc602cf7b011741ad0a217a0a263d186bbb54270d95d4942846ca410d",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 52,
+          "count_child": 52,
+          "hash_source": "7629ce13965804d6a7ff0f81c9120354f15049459679731e8d2de9b319cc2d5e",
+          "hash_child": "7629ce13965804d6a7ff0f81c9120354f15049459679731e8d2de9b319cc2d5e",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 2082,
+          "count_child": 2082,
+          "hash_source": "b7a0fd78dae30f58aaebc08b04fa010873c4ce3bf95add9c492f1d72a588cf0e",
+          "hash_child": "b7a0fd78dae30f58aaebc08b04fa010873c4ce3bf95add9c492f1d72a588cf0e",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 4325,
+          "count_child": 4325,
+          "hash_source": "522df3cc0ad8107bf0bb8dbf695a2927e2ec3a2c27ccef04ef669c6a49f051af",
+          "hash_child": "522df3cc0ad8107bf0bb8dbf695a2927e2ec3a2c27ccef04ef669c6a49f051af",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 5,
+      "name_ar": "سنن النسائي",
+      "file": "sakina_nasai.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "675a2043699cb0823f13628437193e7295a9a227047fcba096df6a94029ea6bf",
+          "hash_child": "675a2043699cb0823f13628437193e7295a9a227047fcba096df6a94029ea6bf",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 52,
+          "count_child": 52,
+          "hash_source": "8b1d3af5a12c2ee8f7d7bc821b65e1835fe83b9043cef2a441ceb849a7755918",
+          "hash_child": "8b1d3af5a12c2ee8f7d7bc821b65e1835fe83b9043cef2a441ceb849a7755918",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 2534,
+          "count_child": 2534,
+          "hash_source": "a5bcdeb35222c2ecb7c23174df7b4bfc0105ec8356e40a1084757e853c09c443",
+          "hash_child": "a5bcdeb35222c2ecb7c23174df7b4bfc0105ec8356e40a1084757e853c09c443",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 3674,
+          "count_child": 3674,
+          "hash_source": "0304c0f4e9eac589d0a896cbdbb6ad9b3acb7496bced5fb3810bc24fffadf1c2",
+          "hash_child": "0304c0f4e9eac589d0a896cbdbb6ad9b3acb7496bced5fb3810bc24fffadf1c2",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 6,
+      "name_ar": "سنن ابن ماجه",
+      "file": "sakina_ibnmajah.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "9868e28f050dd8b7ec3088f5df3ba29cc201223e437b03dfc68250e80f9c8c51",
+          "hash_child": "9868e28f050dd8b7ec3088f5df3ba29cc201223e437b03dfc68250e80f9c8c51",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 38,
+          "count_child": 38,
+          "hash_source": "432dc400b116fb4f1099e7201999fd968d3354f82ac2aae8de6451511e184ef8",
+          "hash_child": "432dc400b116fb4f1099e7201999fd968d3354f82ac2aae8de6451511e184ef8",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 1480,
+          "count_child": 1480,
+          "hash_source": "2d9d457748bd0f58f8904152459a16f86a6a56e1385c780bae3a0ad0ea4a0c7d",
+          "hash_child": "2d9d457748bd0f58f8904152459a16f86a6a56e1385c780bae3a0ad0ea4a0c7d",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 4342,
+          "count_child": 4342,
+          "hash_source": "76edfe1cacbbd5c04bece2e1bf752b2994f11590d1aa9bbdd45ee0c15c0a3cb9",
+          "hash_child": "76edfe1cacbbd5c04bece2e1bf752b2994f11590d1aa9bbdd45ee0c15c0a3cb9",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 7,
+      "name_ar": "موطأ مالك",
+      "file": "sakina_malik.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "0b88a593a851bf57d8dbf403711fe2431d6c4c0696de3ba9a1c665cd7925a8eb",
+          "hash_child": "0b88a593a851bf57d8dbf403711fe2431d6c4c0696de3ba9a1c665cd7925a8eb",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 61,
+          "count_child": 61,
+          "hash_source": "e43189f9cccbf7df72342fc42af5dbf8395ea1478d452c414ea0a65518fa74b0",
+          "hash_child": "e43189f9cccbf7df72342fc42af5dbf8395ea1478d452c414ea0a65518fa74b0",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 683,
+          "count_child": 683,
+          "hash_source": "264c2b6fbbbf4bdb422466a0e90a809447783ed57809ac5b5128c1480d51fae4",
+          "hash_child": "264c2b6fbbbf4bdb422466a0e90a809447783ed57809ac5b5128c1480d51fae4",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 1821,
+          "count_child": 1821,
+          "hash_source": "671228aabd67d0d9cb95dcbb55284b8ce007a1afe999af94baef3a4f50021b10",
+          "hash_child": "671228aabd67d0d9cb95dcbb55284b8ce007a1afe999af94baef3a4f50021b10",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 8,
+      "name_ar": "مسند الإمام أحمد",
+      "file": "sakina_ahmad.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "d7cd358d7523974376b820c9b1784a5512aa64856d056cde7fa563b26fbb0802",
+          "hash_child": "d7cd358d7523974376b820c9b1784a5512aa64856d056cde7fa563b26fbb0802",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 25,
+          "count_child": 25,
+          "hash_source": "f5dc5eeeacb54834d7f0f3ff7932a34476e96b635bf8c8b18c1ec9c1f7947b95",
+          "hash_child": "f5dc5eeeacb54834d7f0f3ff7932a34476e96b635bf8c8b18c1ec9c1f7947b95",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 1292,
+          "count_child": 1292,
+          "hash_source": "b1e42de9b6497e1bbd6b645066f277c23e77561576da0d746c5f92a44111da0a",
+          "hash_child": "b1e42de9b6497e1bbd6b645066f277c23e77561576da0d746c5f92a44111da0a",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 18000,
+          "count_child": 18000,
+          "hash_source": "f2a41a37844791d1d0f66f3ebcb974ab5ce30eaf450196fa0f51cafaa72ae24e",
+          "hash_child": "f2a41a37844791d1d0f66f3ebcb974ab5ce30eaf450196fa0f51cafaa72ae24e",
+          "rows_exact": true
+        }
+      }
+    },
+    {
+      "collection_id": 9,
+      "name_ar": "سنن الدارمي",
+      "file": "sakina_darimi.db",
+      "checks": {
+        "integrity_check": true,
+        "foreign_key_check": true,
+        "schema_exact": true,
+        "tables_exact": true,
+        "one_collection_only": true,
+        "all_rows_exact": true,
+        "hadith_text_tashkeel_exact": true,
+        "hadith_text_plain_exact": true,
+        "hadith_numbers_exact": true,
+        "books_order_exact": true,
+        "chapters_order_exact": true,
+        "no_empty_texts": true,
+        "all": true
+      },
+      "tables": {
+        "collections": {
+          "count_source": 1,
+          "count_child": 1,
+          "hash_source": "b7ca8fcce41ce53830f91d580edc185139856dbf6ad9c76e0978fd77e0eab53d",
+          "hash_child": "b7ca8fcce41ce53830f91d580edc185139856dbf6ad9c76e0978fd77e0eab53d",
+          "rows_exact": true
+        },
+        "books": {
+          "count_source": 25,
+          "count_child": 25,
+          "hash_source": "1918ab5b3f2e5da8150e428f42d267b61e5745a5e5e465b64ede7a62d8b90604",
+          "hash_child": "1918ab5b3f2e5da8150e428f42d267b61e5745a5e5e465b64ede7a62d8b90604",
+          "rows_exact": true
+        },
+        "chapters": {
+          "count_source": 1317,
+          "count_child": 1317,
+          "hash_source": "3ab37f6c725fa12b12c8b9e8e17057d533773e07ac76b10aa735e3da5a2019e6",
+          "hash_child": "3ab37f6c725fa12b12c8b9e8e17057d533773e07ac76b10aa735e3da5a2019e6",
+          "rows_exact": true
+        },
+        "hadiths": {
+          "count_source": 3380,
+          "count_child": 3380,
+          "hash_source": "575b909daec662f674d38bba025af1cb3230ce3fbd178a114722a1ea1ff181c6",
+          "hash_child": "575b909daec662f674d38bba025af1cb3230ce3fbd178a114722a1ea1ff181c6",
+          "rows_exact": true
+        }
+      }
+    }
+  ],
+  "zip_test_pass": true
+}

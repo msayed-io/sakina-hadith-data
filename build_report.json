@@ -1,0 +1,140 @@
+{
+  "source_book_ids": [
+    1681,
+    1727,
+    117359,
+    7895,
+    1339,
+    1198,
+    1699,
+    25794,
+    21795
+  ],
+  "checks": {
+    "foreign_key_violations": [],
+    "collections": 9,
+    "books": 444,
+    "chapters": 16638,
+    "hadiths": 52863,
+    "empty_texts": 0
+  },
+  "collections": [
+    {
+      "collection_id": 1,
+      "source_book_id": 1681,
+      "name_ar": "صحيح البخاري",
+      "numbered_hadiths": 7265,
+      "intro_pages_included": 0,
+      "book_rows": 98,
+      "chapter_rows": 4048,
+      "preliminary_roots": [
+        1,
+        2
+      ],
+      "first_actual_root": 3
+    },
+    {
+      "collection_id": 2,
+      "source_book_id": 1727,
+      "name_ar": "صحيح مسلم",
+      "numbered_hadiths": 6347,
+      "intro_pages_included": 52,
+      "book_rows": 57,
+      "chapter_rows": 1331,
+      "preliminary_roots": [
+        1,
+        2
+      ],
+      "first_actual_root": 9
+    },
+    {
+      "collection_id": 3,
+      "source_book_id": 117359,
+      "name_ar": "سنن أبي داود",
+      "numbered_hadiths": 3657,
+      "intro_pages_included": 0,
+      "book_rows": 36,
+      "chapter_rows": 1871,
+      "preliminary_roots": [
+        1,
+        2
+      ],
+      "first_actual_root": 43
+    },
+    {
+      "collection_id": 4,
+      "source_book_id": 7895,
+      "name_ar": "جامع الترمذي",
+      "numbered_hadiths": 4325,
+      "intro_pages_included": 0,
+      "book_rows": 52,
+      "chapter_rows": 2082,
+      "preliminary_roots": [],
+      "first_actual_root": 1
+    },
+    {
+      "collection_id": 5,
+      "source_book_id": 1339,
+      "name_ar": "سنن النسائي",
+      "numbered_hadiths": 3674,
+      "intro_pages_included": 0,
+      "book_rows": 52,
+      "chapter_rows": 2534,
+      "preliminary_roots": [
+        1,
+        2
+      ],
+      "first_actual_root": 45
+    },
+    {
+      "collection_id": 6,
+      "source_book_id": 1198,
+      "name_ar": "سنن ابن ماجه",
+      "numbered_hadiths": 4342,
+      "intro_pages_included": 0,
+      "book_rows": 38,
+      "chapter_rows": 1480,
+      "preliminary_roots": [
+        1
+      ],
+      "first_actual_root": 49
+    },
+    {
+      "collection_id": 7,
+      "source_book_id": 1699,
+      "name_ar": "موطأ مالك",
+      "numbered_hadiths": 1821,
+      "intro_pages_included": 0,
+      "book_rows": 61,
+      "chapter_rows": 683,
+      "preliminary_roots": [],
+      "first_actual_root": 1
+    },
+    {
+      "collection_id": 8,
+      "source_book_id": 25794,
+      "name_ar": "مسند الإمام أحمد",
+      "numbered_hadiths": 18000,
+      "intro_pages_included": 0,
+      "book_rows": 25,
+      "chapter_rows": 1292,
+      "preliminary_roots": [
+        1
+      ],
+      "first_actual_root": 50
+    },
+    {
+      "collection_id": 9,
+      "source_book_id": 21795,
+      "name_ar": "سنن الدارمي",
+      "numbered_hadiths": 3380,
+      "intro_pages_included": 0,
+      "book_rows": 25,
+      "chapter_rows": 1317,
+      "preliminary_roots": [
+        1
+      ],
+      "first_actual_root": 59
+    }
+  ]
+}
