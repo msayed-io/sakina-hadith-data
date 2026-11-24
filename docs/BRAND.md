@@ -4,11 +4,29 @@ The repository identity is intentionally separate from the Sakina application UI
 
 ## Mark
 
-`assets/sakina-hadith-mark.png` is the transparent symbol for avatars, repository identity, app download cards, and documentation headers. It combines an open book with layered database storage and a central light-of-knowledge motif.
+`assets/sakina-hadith-mark.png` is the high-resolution master. `assets/sakina-hadith-mark.webp` is the lightweight web version used in README and documentation. The symbol combines an open book with layered database storage and a central light-of-knowledge motif.
 
 ## Cover
 
-`assets/sakina-hadith-cover.png` is the wide editorial cover for README pages, documentation landing pages, and repository presentations. It has a quiet left side intended for an overlaid title when used outside GitHub Markdown.
+`assets/sakina-hadith-cover.png` is the high-resolution master. `assets/sakina-hadith-cover.webp` is the lightweight web version used in README. The cover has a quiet left side intended for an overlaid title when used outside GitHub Markdown.
+
+## Color system
+
+The repository identity follows the Sakinah direction without introducing a new bright accent. These are the canonical design colors for documentation and repository visuals:
+
+| Role | Name | HEX |
+|---|---|---|
+| Main paper surface | Paper | `#ECE7DE` |
+| Reading surface | Cream | `#F7F2EA` |
+| Clean surface | Snow | `#FDFCFB` |
+| Primary ink | Espresso | `#2B1A10` |
+| Primary brass | Sand Brass | `#DEAB65` |
+| Deep brass | Aged Brass | `#B88A4F` |
+| Dark accent | Parchment Ivory | `#EEDFC2` |
+| Dark background | OLED Black | `#000000` |
+| Dark elevated surface | Graphite | `#1C1C1E` |
+
+The light direction uses paper, cream, espresso, and brass. The dark direction uses black and graphite surfaces with parchment ivory as the single accent. Avoid purple, neon gradients, saturated blue, and unapproved decorative colors.
 
 ## Usage rules
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sakina-hadith-mark.png" alt="Sakina Hadith Data mark" width="180">
+<img src="assets/sakina-hadith-mark.webp" alt="Sakina Hadith Data mark" width="180">
 
 # Sakina Hadith Data
 
@@ -12,7 +12,7 @@
 
 </div>
 
-![Sakina Hadith Data cover](assets/sakina-hadith-cover.png)
+![Sakina Hadith Data cover](assets/sakina-hadith-cover.webp)
 
 Verified, distributable SQLite databases for nine major hadith collections used by Sakina and other Islamic applications.
 
